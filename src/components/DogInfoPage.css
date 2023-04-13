@@ -1,0 +1,16 @@
+/* CSS till DogInfo.js */
+
+/* Huvudrubrik */
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    margin: 2rem 0;
+  }
+  
+  /* Information om hund */
+  p {
+    font-size: 1.5rem;
+    margin: 1rem 0;
+    text-align: center;
+  }
+  
